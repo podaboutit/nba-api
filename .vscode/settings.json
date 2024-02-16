@@ -1,0 +1,3 @@
+{
+  "python.analysis.extraPaths": ["./nba_api-master/src"]
+}
